@@ -1,0 +1,6 @@
+{
+  "name": "Cinematic Scene Generator",
+  "description": "An application to generate a cinematic script from an idea, create corresponding image and motion prompts, and visualize scenes.",
+  "requestFramePermissions": [],
+  "prompt": ""
+}
